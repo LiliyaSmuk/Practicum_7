@@ -25,11 +25,11 @@
 
 ![просмотр содержимого файла](https://user-images.githubusercontent.com/90343173/147239626-09a12b54-7c27-44be-84e3-6d6f9f97a335.jpg)
 
-#### Перемещение:
+#### Перемещение между папками:
 
 ![перемещение](https://user-images.githubusercontent.com/90343173/147239647-68ac8879-f131-4fa3-a8a2-f6e716c5829e.jpg)
 
-#### Удаление файла:
+#### Создание и удаление нового файла:
 
 ![удаление файла](https://user-images.githubusercontent.com/90343173/147239689-e19c518c-6c73-4fe5-8066-5eda05f6f4cd.jpg)
 
@@ -38,5 +38,29 @@
 ![удаление файла3](https://user-images.githubusercontent.com/90343173/147239713-b89857da-d56a-46e0-911d-f69fb9d71ff2.jpg)
 
 ![удаление файла4](https://user-images.githubusercontent.com/90343173/147239886-1f5e6912-2062-4fef-9433-42f3265ec26a.jpg)
+
+
+### Доп. задания:
+
+#### Ограничение возможности выхода за пределы своей папки:
+
+![ограничения возможности выйти за пределы своей папки](https://user-images.githubusercontent.com/90343173/147242589-2e7443a8-f205-4b63-82fb-7ecf2cb01e0c.jpg)
+
+#### Консоль сервера:
+
+![консоль сервера](https://user-images.githubusercontent.com/90343173/147242922-d5fb69e7-01fb-4bb2-b88c-edaaaaeb1ca4.jpg)
+
+#### Учетная запись админа:
+
+![учетная запись админа](https://user-images.githubusercontent.com/90343173/147242981-96fca4ea-7a25-427b-842e-d0ef69cdcfa1.jpg)
+
+![учетная запись админа2](https://user-images.githubusercontent.com/90343173/147243051-70bae39d-dd62-4fb7-a04a-ee1549b57d79.jpg)
+
+#### json файл:
+
+<img width="253" alt="json" src="https://user-images.githubusercontent.com/90343173/147243167-af687248-5122-4bff-a915-2017dd0b9f6b.png">
+
+
+
 
 
