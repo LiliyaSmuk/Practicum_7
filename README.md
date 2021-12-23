@@ -11,7 +11,7 @@
 
 ![создание папки2](https://user-images.githubusercontent.com/90343173/147239310-4ec0e741-4050-43ab-8306-5cd91664c0a9.jpg)
 
-#### Создание файла:
+#### Создание и заполнение файла:
 
 ![создание файла и запись в него](https://user-images.githubusercontent.com/90343173/147239556-d4c9f785-5abb-46b2-a7b6-9f6bda3fafef.jpg)
 
